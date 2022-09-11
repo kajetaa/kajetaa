@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kajetaa
 - 👀 I’m interested in fullstack development javascript ,passionate about frontend with react
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently freelancing...
 - 💞️ I’m looking to collaborate on frontend or backend projects
 - 📫 How to reach me ezikeohaking@gmail.com
 
